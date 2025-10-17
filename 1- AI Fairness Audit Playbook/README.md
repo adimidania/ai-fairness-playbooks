@@ -1,6 +1,6 @@
 # Fairness Audit Playbook
 
-## Purpose
+## I. Purpose
 
 This playbook walks you through a structured, practical **fairness audit** for your AI project. It’s designed for:
 
@@ -13,19 +13,19 @@ This playbook walks you through a structured, practical **fairness audit** for y
 
 ### Quick Links
 
-- [Purpose](#purpose)
-- [Why Fairness Matters](#why-fairness-matters)
-- [What This Notebook Helps You Achieve](#what-this-notebook-helps-you-achieve)
-- [Quick Relevance Check](#quick-relevance-check)
-- [Implementation Considerations](#implementation-considerations)
-- [The Four Core Components](#the-four-core-components)
-- [How to Use This Notebook Series](#how-to-use-this-notebook-series)
-- [Glossary](#glossary)
-- [Collaboration & Feedback](#collaboration--feedback)
+- [Purpose](#i-purpose)
+- [Why Fairness Matters](#ii-why-fairness-matters)
+- [What This Notebook Helps You Achieve](iii-#what-this-notebook-helps-you-achieve)
+- [Quick Relevance Check](#iv-quick-relevance-check)
+- [Implementation Considerations](#v-implementation-considerations)
+- [The Four Core Components](#vi-the-four-core-components)
+- [How to Use This Notebook Series](#vii-how-to-use-this-notebook-series)
+- [Appendix](#viii-appendix)
+- [Collaboration & Feedback](#ix-collaboration--feedback)
 
 ---
 
-## Why Fairness Matters
+## II. Why Fairness Matters
 
 AI systems can unintentionally discriminate against protected groups, such as racial minorities, women, or the elderly, leading to real-world harms. Addressing fairness is important because:
 
@@ -36,7 +36,7 @@ AI systems can unintentionally discriminate against protected groups, such as ra
 
 ---
 
-## What This Notebook Helps You Achieve
+## III. What This Notebook Helps You Achieve
 
 * **Structured Audit:** Step-by-step guidance from historical context to metric evaluation.
 * **Actionable Insights:** Identifies where bias exists and suggests how to measure it.
@@ -44,7 +44,7 @@ AI systems can unintentionally discriminate against protected groups, such as ra
 
 ---
 
-## Quick Relevance Check
+## IV. Quick Relevance Check
 
 **Use this notebook if your AI system:**
 
@@ -61,7 +61,7 @@ AI systems can unintentionally discriminate against protected groups, such as ra
 
 ---
 
-## Implementation Considerations
+## V. Implementation Considerations
 
 Before running a fairness audit or using this framework, teams should think about **resources, workflow integration, and operational readiness**.
 
@@ -92,7 +92,7 @@ Before running a fairness audit or using this framework, teams should think abou
 ---
 
 
-## The Four Core Components
+## VI. The Four Core Components
 
 Here’s what you’ll tackle and why each step matters:
 
@@ -146,7 +146,7 @@ And to see how it works in a real case, follow along in the [**case study**](./5
 
 ---
 
-## How to Use This Notebook Series
+## VII. How to Use This Notebook Series
 
 * **Go in order.** Start with the first notebook and move to the next only after completing it.
 * **Take your time.** Each notebook builds on the previous so don’t rush.
@@ -156,13 +156,13 @@ And to see how it works in a real case, follow along in the [**case study**](./5
 ---
 
 
-## Glossary
+## VIII. Appendix
 
-Need to look up AI ethics terms like “demographic parity” or “intersectionality”? Check out the appendix here: [appendix.md](./6-appendix.md)
+Need to look up AI ethics terms like “demographic parity” or understand core AI ethics concepts? Check out the appendix here: [appendix.md](./6-appendix.md)
 
 ---
 
-## Collaboration & Feedback
+## IX. Collaboration & Feedback
 
 We welcome collaboration and feedback from the community! If you have suggestions, improvements, or want to contribute:
 
