@@ -7,7 +7,7 @@ The goal of these playbooks is to provide structured, hands-on guides for auditi
 ## 📂 Playbooks
 
 - ✅ [**AI Fairness Audit Playbook**](./1-%20AI%20Fairness%20Audit%20Playbook/) — *Completed*  
-- 🚧 [**AI Fairness Intervention Playbook**](./2-%20AI%20Fairness%20Intervention%20Playbook/) — *Completed*  
+- ✅ [**AI Fairness Intervention Playbook**](./2-%20AI%20Fairness%20Intervention%20Playbook/) — *Completed*  
 - 🚧 [**AI Fairness Implementation Playbook**](./3-%20AI%20Fairness%20Implementation%20Playbook/) — *In Progress*  
 
 ## 🙋‍♀️ Collaboration & Feedback
